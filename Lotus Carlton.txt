@@ -1,0 +1,84 @@
+Lotus Carlton
+
+Article
+Talk
+Read
+Edit
+View history
+
+Tools
+From Wikipedia, the free encyclopedia
+Lotus Carlton
+
+Overview
+Manufacturer	Lotus
+Opel/Vauxhall
+Also called	Opel Lotus Omega
+Vauxhall Lotus Carlton
+Production	1990–1992
+950 produced
+Assembly	United Kingdom: Hethel, Norfolk (Group Lotus)
+Body and chassis
+Class	Sports saloon
+Body style	4-door saloon
+Layout	Longitudinal front-engine, rear-wheel-drive
+Platform	GM V-body
+Related	
+Opel Omega A
+Holden Commodore VN
+Holden Commodore VP
+Powertrain
+Engine	3.6 L Opel C36GET twin-turbocharged I6
+Power output	382 PS (281 kW; 377 hp) at 5,200 rpm
+Transmission	6-speed ZF S6-40 manual
+Dimensions
+Wheelbase	2,730 mm (107.5 in)
+Length	4,763 mm (187.5 in)
+Width	1,930 mm (76.0 in)
+Height	1,435 mm (56.5 in)
+Curb weight	1,655 kg (3,649 lb)[1]
+Chronology
+Predecessor	Lotus Cortina
+The Lotus Carlton (also called Vauxhall Lotus Carlton, Lotus Omega and Opel Lotus Omega) is a version of the Vauxhall Carlton/Opel Omega A saloon upgraded by Lotus in order to be a high performance sports saloon. Like all Lotus vehicles, it was given a type designation—Type 104 in this case.
+
+Development
+
+Engine bay
+
+Rear view
+
+Interior
+Engine and drivetrain
+Performance modifications started with an upgraded engine, which was enhanced by Lotus from the standard Opel 2,969 cc (3.0 L) 24-valve straight-six unit used in the GSi. The engine was enlarged to a capacity of 3,615 cc (3.6 L).[2] Lotus then added two Garrett T25 turbochargers, which provide up to 0.7 bar (10 psi) of boost from about 2,500 rpm. The original distributor ignition system of the engine was replaced with a three-coil wasted spark system, and the distributor drive was re-purposed as a water pump drive for the water-air intercooler circuit. The intercooler itself was manufactured by Behr and is capable of reducing charge air temperature from 120 °C (248 °F) to 60 °C (140 °F).[3][4]
+
+In addition to the aforementioned engine modifications, Lotus made a number of engineering changes to the engine so that it would perform reliably with the higher power output. To cope with increased cylinder pressures of about 95 bar (9,500 kPa), the external webbing on the engine block was reinforced. The crankshaft was replaced as well; early development crankshafts were machined from billet steel in Italy, but production units were forged by Opel and sent to Maschinenfabrik Alfing Kessler for machining. The cylinder head was left mostly the same as the original 24-valve design, though the combustion chamber was machined to reduce the static compression ratio from 10.0:1 to 8.2:1. The engine was fitted with forged slipper pistons produced by Mahle. Piston connecting rods were replaced with new units made to an original Lotus design.[3]
+
+The same ZF 6-speed manual transmission as fitted to a contemporary Chevrolet Corvette ZR-1 was used to transfer power output to the rear wheels via a rear limited-slip differential shared with the V8 Holden Commodore.
+
+Exterior
+Exterior changes included the addition of a rear spoiler, cooling vents on the bonnet, Lotus badges on the front wings and bootlid, a body kit, and considerably wider wheel arches for the larger wheels.[5] The car was only sold in one colour, a dark green called Imperial Green (similar to British racing green).
+
+Chassis, brakes, and steering
+The rear suspension of the Omega, already praised by the automotive press,[citation needed] was modified by Lotus for better high-speed stability and improved handling dynamics, by adding a new suspension arm, and revising the bushings, to modify the toe and camber characteristics. To combat the problem of significant camber change at high speed and when fully laden, the self-leveling suspension from the Opel Senator was fitted. Also borrowed from the Senator was the Servotronic power steering system, which provides full power assistance at parking speeds and reduces assistance as the road speed increases. The Lotus engineers would have preferred using rack and pinion steering, but cost and space constraints limited them to the worm-and-roller arrangement.[3]
+
+Initial sketches for the wheels showed a split-rim composite design, but this was ultimately abandoned in favor of a monoblock wheel design, with cited concerns over the durability of the wheels in poor road conditions. The final design for the 17-inch (430 mm) wheels was manufactured by Ronal, along with Goodyear Eagle tyres that were wider than those used on the Omega.[2] The tyre compound used was the same as that on the Esprit Turbo SE, with a combination of oils and low hysteresis. This allows for improved high-speed stability and better performance in wet conditions.[3]
+
+The car is fitted with 12.9 in (328 mm) brake discs at the front and 11.8 in (300 mm) discs in the rear, both manufactured by Portland Engineering in Dorset, along with four-piston AP calipers at the front and two-piston calipers at the rear.[3]
+
+Performance
+The twin-turbocharged straight-six engine in the Lotus Carlton, codenamed the C36GET, has a power output of 382 PS (281 kW; 377 hp) at 5,200 rpm and 568 N⋅m (419 lb⋅ft) of torque at 4,200 rpm, of which 470 N⋅m (350 lb⋅ft) is available from 2,000 rpm.[6] The car was capable of accelerating from 0–60 mph (97 km/h) in 5.1 seconds, 0–100 mph (160 km/h) in 11.1 seconds,[7] and going from 0–124–0 km/h in less than 17 seconds. Tall gearing allows it to achieve approximately 89 km/h (55 mph) in first gear and reach a top speed of over 176 mph (283 km/h). The Lotus Carlton held the title of the fastest four-door production saloon for many years.
+
+Production
+Production of the Lotus Carlton began in 1990, four years after the original Omega went on sale. Opel had hoped to build 1,100 cars in total, but owing to the recession of the early 1990s, the Lotus Carlton, priced at £48,000, was not selling as well as anticipated, and production at Lotus was halted in December 1992. Only 950 cars were completed: 320 Carltons and 630 Omegas, 150 short of the original target. The cars have since become modern classics as low-mileage, well-looked-after examples become rare.[8]
+
+In 1991, the Italian design house Pininfarina produced a styling concept for a sports coupe named the Chronos that was designed to accept the drivetrain from the Lotus Omega, but on a shortened 2,450 mm (96.5 in) wheelbase.[9] The single example of the Chronos, sans engine, was displayed at the 1991 Detroit Auto Show.[3]
+
+Reception
+Because the Lotus Carlton could equal or exceed the performance of many contemporary sports cars from the likes of Ferrari and Porsche while also comfortably carrying four passengers, it generated some controversy among the automotive and general press. Bob Murray, then editor of Autocar magazine, wrote: "Nobody buying this car could possibly argue he either needs or will be able to use a top whack which is claimed to be around 180 mph", and suggested that Vauxhall should follow the example set by German automakers (who had begun electronically limiting the top speed of their high-performance cars to 155 mph (249 km/h)). Ultimately, Opel did not restrict the car's top speed.[3]
+
+The Lotus Carlton was a frequent target for thieves and joyriders in the UK. On 26 November 1993, a Lotus Carlton registered "40 RA" was reported stolen from a home in the West Midlands.[10] In the following months, a gang of thieves used the car to conduct midnight ram raids, stealing around £20,000 worth of cigarettes and alcohol. A West Midlands Police officer said, "We simply haven't been able to get near the thing and it looks unlikely that we ever will", as their police cars were incapable of safely pursuing the stolen Lotus Carlton.[11] The stolen car was later found dumped in a canal, having been damaged beyond repair by a large object, and was subsequently scrapped.[12][13][14]
+
+A campaign by the Daily Mail and the Association of Chief Police Officers was launched to have the Lotus Carlton banned in the UK.[citation needed] The car's advertising was also condemned in Parliament.[15] Despite gaining traction, the campaign to ban the Lotus Carlton ultimately failed.
+
+Other markets
+While the base Omega A and the Lotus Omega were never federalized for sale in the US, the Omega was cleared for grey import under the DOT's "Show or Display" exemption in 2011.[16] By the end of 2017, all model years of the Lotus Carlton were past the 25-year mark, making them exempt from NHTSA import restrictions.
